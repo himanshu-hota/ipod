@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ab2e059.css",
+    "main.js": "/static/js/main.afb7cb69.js",
+    "static/media/BlueJelly.png": "/static/media/BlueJelly.f4c605133ffd5b465312.png",
+    "static/media/Dil.mp3": "/static/media/Dil.885b047fd3dbdb790921.mp3",
+    "static/media/Arcade.mp3": "/static/media/Arcade.04c5fface41eca186483.mp3",
+    "static/media/Hawayein.mp3": "/static/media/Hawayein.bb262bf3f1d44536a9e4.mp3",
+    "static/media/PlayDate.mp3": "/static/media/PlayDate.2ca6256577897729afe1.mp3",
+    "static/media/AudioTapes.png": "/static/media/AudioTapes.a5d48d204e03408b41db.png",
+    "static/media/Dhadkan.mp3": "/static/media/Dhadkan.9bf32bad3b35afb7b6cd.mp3",
+    "static/media/BlueCubes.png": "/static/media/BlueCubes.adafdb5ac63814c57e2b.png",
+    "static/media/game.jpg": "/static/media/game.39b5dc814246f5eafc3d.jpg",
+    "static/media/settings.png": "/static/media/settings.e0158f7b671d8a93c11a.png",
+    "static/media/Dhadkan.jpg": "/static/media/Dhadkan.9a55225a5b329ebf4295.jpg",
+    "static/media/Hawayein.jpg": "/static/media/Hawayein.f820ddb6a2382aee64b4.jpg",
+    "static/media/Dil.jpg": "/static/media/Dil.d439552f16bf2e127096.jpg",
+    "static/media/PlayDate.jpg": "/static/media/PlayDate.6720cd4ee0385ab4e4c2.jpg",
+    "index.html": "/index.html",
+    "main.3ab2e059.css.map": "/static/css/main.3ab2e059.css.map",
+    "main.afb7cb69.js.map": "/static/js/main.afb7cb69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab2e059.css",
+    "static/js/main.afb7cb69.js"
+  ]
+}
